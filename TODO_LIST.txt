@@ -1,4 +1,6 @@
 FYW:
+  Essay Final Draft
+  Presentaiton
 
 Discrete:
   hw*
