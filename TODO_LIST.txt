@@ -1,0 +1,15 @@
+FYW:
+
+Discrete:
+  hw
+
+Calc II:
+  project
+  webwork
+
+CSII:
+  lab
+  project
+
+Routing & Switching:
+  lab report"#Jon-sToDoList" 
