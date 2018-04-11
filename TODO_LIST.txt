@@ -3,17 +3,17 @@ FYW:
   Presentaiton
 
 Discrete:
-  hw*
 
 Calc II:
   project
-  webwork**
+  webwork*
+  webwork pt.2
 
 CSII:
   project*
 
 Routing & Switching:
-  lab report**
+  lab report*
   
 * = today
 ** = tomorrow
