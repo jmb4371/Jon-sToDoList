@@ -1,11 +1,11 @@
 FYW:
-  Essay Final Draft
-  Presentaiton
+  Essay Final Draft**
+  Go over and practice presentation at least once
 
 Discrete:
 
 Calc II:
-  project
+  project*
   webwork*
   webwork pt.2
 
