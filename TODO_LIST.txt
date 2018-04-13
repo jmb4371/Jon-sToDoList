@@ -6,7 +6,6 @@ Discrete:
 
 Calc II:
   project*
-  webwork*
   webwork pt.2
 
 CSII:
