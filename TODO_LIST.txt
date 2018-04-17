@@ -6,9 +6,7 @@ Discrete:
 
 Calc II:
   project
-  webwork pt.2
-  test wednesday
-
+  
 CSII:
   project pt 2
 
