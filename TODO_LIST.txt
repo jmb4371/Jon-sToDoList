@@ -13,4 +13,3 @@ Routing & Switching:
 
 OTHER:
   Register for oceans physics*
-  write the emails*
