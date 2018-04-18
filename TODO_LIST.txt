@@ -1,6 +1,3 @@
-FYW:
-  Essay Final Draft*
-  
 Discrete:
   HW
 
@@ -11,7 +8,6 @@ CSII:
   project pt 2
 
 Routing & Switching:
-
 
 OTHER:
   Register for oceans physics
