@@ -1,17 +1,16 @@
 Discrete:
-  HW
+  HW*
 
 Calc II:
-  project
+  project*/**
   
 CSII:
   project pt 2
+  lab***
 
 Routing & Switching:
+  prelab**
 
 OTHER:
-  Register for oceans physics
-  write the emails
-
-* = today
-** = tomorrow
+  Register for oceans physics*
+  write the emails*
