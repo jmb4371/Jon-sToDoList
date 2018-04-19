@@ -8,7 +8,4 @@ CSII:
   lab***
 
 Routing & Switching:
-  prelab**
-
-OTHER:
-  Register for oceans physics*
+  prelab*
