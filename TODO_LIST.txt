@@ -1,11 +1,12 @@
 Discrete:
+  hw
 
 Calc II:
   project*
   
 CSII:
   project pt 2
-  lab*
-
+  
 Routing & Switching:
   lab
+  practical practice
