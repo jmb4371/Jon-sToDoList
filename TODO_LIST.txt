@@ -7,5 +7,4 @@ CSII:
   project pt 2
   
 Routing & Switching:
-  lab
   practical practice
