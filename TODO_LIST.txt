@@ -1,10 +1,5 @@
-Discrete:
-
 Calc II:
   project*
   
 CSII:
   project pt 2
-  
-Routing & Switching:
-  practical practice
